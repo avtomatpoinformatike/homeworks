@@ -1,2 +1,2 @@
-# homeworks
-MY FIRST REPO
+**# homeworks**
+ ~MY FIRST REPO~
